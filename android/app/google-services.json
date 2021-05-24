@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426548291314",
+    "firebase_url": "https://turbo2godriver.firebaseio.com",
+    "project_id": "turbo2godriver",
+    "storage_bucket": "turbo2godriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426548291314:android:09b969d42313213ec4126b",
+        "android_client_info": {
+          "package_name": "com.turbo2godriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426548291314-c4f8epmca2e5n29bkai7drdgm7b0kou9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEhDF_iv6cOXggXWQoVmKkcAI5Ffm0u9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426548291314-c4f8epmca2e5n29bkai7drdgm7b0kou9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

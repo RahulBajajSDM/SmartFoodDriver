@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">SmartFood Driver</string>
+    <string name="defaultChannel" translatable="false">defaultChannel</string>
+</resources>

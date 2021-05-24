@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react",
+    "paths": {
+      "*": ["src/*"],
+      "test/*": ["test/*"],
+      "underscore": ["lodash"],
+      "@components": ["src/components"],
+      "@containers": ["src/containers"],
+      "@config": ["src/config"],
+      "@actions": ["src/actions"],
+      "@constants": ["src/constants"],
+      "@helpers": ["src/helpers"],
+      "@reducers": ["src/reducers"],
+      "@store": ["src/store"],
+      "@utilities": ["src/utils"],
+      "@hoc": ["src/hoc"]
+    }
+  }
+}
